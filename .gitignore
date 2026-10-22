@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Local environment and IDE files
+.venv/
+.idea/
+
+# Downloaded GTFS cache
+data_cache/
+
+# Temporary extraction files
+assets/icons/_ppt_extract/
+assets/icons/_ppt_media_image.png
+
